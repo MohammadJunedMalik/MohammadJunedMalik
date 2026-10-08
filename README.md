@@ -1,12 +1,12 @@
-# Hi there, I'm [Your Name] 👋
+# Hi there, I'm [Mohammad Juned Malik] 👋
 
 ## 👨‍💻 About Me
 
-- 🔭 I’m currently working on **[Project Name / Your Company]**
-- 🌱 I’m currently learning **[Technology / Framework]**
+- 🔭 I’m currently working on **[Cybersecurity Projects]**
+- 🌱 I’m currently learning **[Python, Linux , Networking and it's essentials]**
 - 👯 I’m looking to collaborate on **[Open Source Projects / App Ideas]**
 - 💬 Ask me about **[Your area of expertise, e.g., React, Python, UI/UX]**
-- 📫 How to reach me: **[Your Email]**
+- 📫 How to reach me: **[junedhulk000@gmail.com]**
 - ⚡ Fun fact: **[A quirky or interesting fact about you]**
 
 ## 🚀 Tech Stack
